@@ -16,9 +16,9 @@ Proje, Akademi derslerine göre modüllere ve bölümlere göre ayrılmıştır.
   <img  alt="GitHub Proje İndir" src="https://user-images.githubusercontent.com/34205493/151403960-1244b8a8-8cfc-441d-81cc-9ade881172fc.png">
   <li><a href="http://oyunveuygulamaakademisi.com/">Oyun ve Uygulama Akademisi</a> web sitesi üzerinde yer alan Flutte eğitimlerindeki YouTube başlığındaki modül ve bölüm sayısını tespit edin. </li>
   <img alt="Modül ve bölüm tespiti" src="https://user-images.githubusercontent.com/34205493/151401453-865314e3-ba72-43d2-9ee3-74bba94238f5.png">
-  <li>Klasörü Android Studio'yu açtıktan sonra "Open" butonuna basıp tespit ettiğiniz modül ve bölüm sayısı ile aynı adda olan klasörü seçin ve "Open"a tıklatın.</li>
+  <li>Klasörü Android Studio'yu açtıktan sonra "Open" butonuna basıp tespit ettiğiniz modül ve bölüm sayısı ile aynı isime sahip olan klasörü seçin ve "Open"a tıklatın.</li>
   <img alt="Android Studio" src="https://user-images.githubusercontent.com/34205493/151403645-24f8c8c9-78ae-4762-9927-60a7b259cae9.png">
-  <li>Proje indexlemesinin bitmesinin ardından "Get dependencies"e tıklatıp veya "flutter pub get" komutunu çalıştırıp projeyi kullanmaya başlayabilirsiniz.</li>
+  <li>Proje indexlemesinin bitmesinin ardından "Get dependencies"e tıklatarak veya "flutter pub get" komutunu çalıştırarak projeyi kullanmaya başlayabilirsiniz.</li>
   <img  alt="Flutter pub get" src="https://user-images.githubusercontent.com/34205493/151404478-f5ff9bb3-c8fe-4bd5-acfd-d8459c16bfb7.png">
 
 </ol>
