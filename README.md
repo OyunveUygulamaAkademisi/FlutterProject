@@ -23,6 +23,7 @@ Proje, Akademi derslerine göre modüllere ve bölümlere göre ayrılmıştır.
 
 </ol>
 
+<p>Oyun ve Uygulama Akademisi kapsamında geliştirilen projelere <a href="https://github.com/topics/oyun-ve-uygulama-akademisi">bu bağlantıya</a> tıklatarak ya da <code>#oyun-ve-uygulama-akademisi</code> etiketini aratarak ulaşabilirsiniz.</p>
 
 <br>
 <p align="center">
