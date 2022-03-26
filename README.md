@@ -14,7 +14,7 @@ Proje, Akademi derslerine göre modüllere ve bölümlere göre ayrılmıştır.
 <ol>
   <li><a href="https://github.com/OyunveUygulamaAkademisi/FlutterProject">Proje anasayfasında</a> "Code" butonuna tıklatıp "Download ZIP"e tıklatıp projeyi bilgisayarınıza indirin.</li>
   <img  alt="GitHub Proje İndir" src="https://user-images.githubusercontent.com/34205493/151403960-1244b8a8-8cfc-441d-81cc-9ade881172fc.png">
-  <li><a href="http://oyunveuygulamaakademisi.com/">Oyun ve Uygulama Akademisi</a> web sitesi üzerinde yer alan Flutte eğitimlerindeki YouTube başlığındaki modül ve bölüm sayısını tespit edin. </li>
+  <li><a href="http://oyunveuygulamaakademisi.com/">Oyun ve Uygulama Akademisi</a> web sitesi üzerinde yer alan Flutter eğitimlerindeki YouTube başlığındaki modül ve bölüm sayısını tespit edin. </li>
   <img alt="Modül ve bölüm tespiti" src="https://user-images.githubusercontent.com/34205493/151401453-865314e3-ba72-43d2-9ee3-74bba94238f5.png">
   <li>Klasörü Android Studio'yu açtıktan sonra "Open" butonuna basıp tespit ettiğiniz modül ve bölüm sayısı ile aynı isime sahip olan klasörü seçin ve "Open"a tıklatın.</li>
   <img alt="Android Studio" src="https://user-images.githubusercontent.com/34205493/151403645-24f8c8c9-78ae-4762-9927-60a7b259cae9.png">
