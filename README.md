@@ -8,7 +8,7 @@
 # Flutter Projesi
 
 Oyun ve Uygulama akademisi eğitimleri kapsamında oluşturulan Flutter projesidir. 
-Proje, Akademi derslerine göre modüllere ve bölümlere göre ayrılmıştır. 
+Proje, Akademi derslerine göre modüllere ve bölümlere ayrılmıştır. 
 
 # Nasıl Kullanılır?
 <ol>
